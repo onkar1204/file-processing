@@ -5,7 +5,6 @@ public class Enterprise {
     public Object getVariableCode() {
         return null;
     }
-    
     public void setYear(Integer valueOf) {
 
     }
