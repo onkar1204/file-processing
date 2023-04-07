@@ -8,7 +8,7 @@ public class FileRead {
    
     public static void main(String[] args) {
        
-      
+     
  
                 try {
                     File file = new File("D://BOOTCODING//file-processing//firstone//firstone.txt");
